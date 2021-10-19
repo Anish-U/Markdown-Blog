@@ -39,4 +39,4 @@ This will run your project at http://localhost:3000
 - [slugify](https://www.npmjs.com/package/slugify) - Slugify converts a string to URL-friendly slug.
 
 
-<small>😄 <i>Developed only for learning purpose. Could use API for better results !</i></small>
+<small>😄 <i>Developed with the help of tutorial by [WebDevSimplified](https://github.com/WebDevSimplified/) !</i></small>
